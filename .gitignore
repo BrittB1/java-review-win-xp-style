@@ -1,0 +1,12 @@
+# node
+frontend/node_modules
+frontend/dist
+# java / maven
+backend/target
+# ide + os
+.idea/
+.vscode/
+.DS_Store
+# secrets
+**/application-local.properties
+.env

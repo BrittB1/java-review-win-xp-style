@@ -7,3 +7,6 @@ html, body, #root {
     padding: 0;
     min-height: 100vh;
 }
+body {
+    font-family: Tahoma, "Segoe UI" , sans-serif;
+}

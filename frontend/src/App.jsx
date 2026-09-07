@@ -1,4 +1,5 @@
 import "./App.css"
+import Taskbar from "./components/Taskbar.jsx";
 
 function App() {
     return (
@@ -19,6 +20,7 @@ function App() {
                 <p>Welcome! Lessons coming soon..</p>
             </div>
             </div>
+                <Taskbar/>
             </div>
         </>
     )
